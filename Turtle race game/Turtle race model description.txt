@@ -1,0 +1,13 @@
+The game begins by prompting the user to place a bet on a particular turtle color to win the race. The user can enter their bet using the keyboard input.
+
+Once the user has placed their bet, the program will execute the race. The race will involve several turtles racing to a finish line on a graphical user interface. The turtles will be represented by turtle objects, which will move across the screen at random speeds. The first turtle to reach the finish line will be declared the winner.
+
+After the race is completed, the program will compare the user's bet with the color of the winning turtle. If the user's bet matches the color of the winning turtle, the program will print "Congratulations! You won the bet!" to the console. Otherwise, the program will print "Sorry, you lost the bet." to the console.
+
+The program can then prompt the user if they want to play another round or if they want to exit the game.
+
+Overall, the turtle race game model combines elements of graphical user interfaces, object-oriented programming, and conditional statements to create a fun and interactive game experience.
+
+
+
+
